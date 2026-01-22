@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/abi-k-aba4a82ab/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42"/>
 </a>
----
 
 ## 🛠️ Skills & Technologies
 
